@@ -14,9 +14,27 @@ TA-APRS started as a hobby project by amateur radio operators and is being devel
 
 ## Current Status
 
-🚧 Development in progress
+🚧 Active Development — v2.6.1 (November 2026)
 
-The software is currently under active development and real-world testing. It is **not yet publicly released**.
+TA-APRS is currently in the final stages of development and technical evaluation before its first public release.
+
+Recent improvements include RX iGate stability enhancements, improved APRS-IS traffic monitoring, and more accurate separation of RF transmission events from internet traffic.
+
+A technical compatibility review is also underway based on APRS iGate implementation recommendations published by Heikki Hannikainen (OH7LZB).
+
+Current priorities:
+
+APRS-IS forwarding and filtering verification
+
+MIC-E packet integrity and duplicate handling
+
+Digipeater and iGate interoperability
+
+Windows compatibility and extended RF field testing
+
+Public release: Coming after successful completion of the remaining technical and field tests.
+
+
 
 ## Planned Features
 
