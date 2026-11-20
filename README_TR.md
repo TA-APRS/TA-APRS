@@ -14,9 +14,25 @@ TA-APRS, amatör telsizciler tarafından hobi amaçlı başlatılmış ve amatö
 
 ## Mevcut Durum
 
-🚧 Geliştirme devam ediyor
+ Aktif Geliştirme — v2.6.1 (Kasım 2026)
 
-Yazılım şu anda aktif olarak geliştirilmekte ve gerçek saha koşullarında test edilmektedir. Henüz **genel kullanıma sunulmamıştır**.
+TA-APRS, ilk genel kullanıma açık sürümünün yayımlanması öncesinde geliştirme ve teknik değerlendirme çalışmalarını sürdürmektedir.
+
+Son güncellemelerde RX iGate çalışma kararlılığının artırılması, APRS-IS trafiğinin daha sağlıklı izlenmesi ve RF gönderim olaylarının internet trafiğinden doğru şekilde ayrılması üzerine iyileştirmeler gerçekleştirilmiştir.
+
+Ayrıca Heikki Hannikainen (OH7LZB) tarafından yayımlanan APRS iGate uygulama önerileri doğrultusunda kapsamlı bir teknik uyumluluk incelemesi yürütülmektedir.
+
+Devam Eden Öncelikli Çalışmalar:
+
+APRS-IS paket aktarımı ve filtreleme mekanizmalarının doğrulanması
+
+MIC-E paketlerinin veri bütünlüğünün korunması ve tekrarlanan paketlerin kontrolü
+
+Digipeater ve iGate çalışma modlarının birlikte kullanımının değerlendirilmesi
+
+Windows işletim sistemleriyle uyumluluk ve kapsamlı RF saha testleri
+
+Genel Yayın Durumu: Kalan teknik kontroller ve saha testleri başarıyla tamamlandıktan sonra ilk genel kullanıma açık sürüm yayımlanacaktır.
 
 ## Planlanan Özellikler
 
